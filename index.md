@@ -26,7 +26,7 @@ Most of the data centered around Brooklyn itself, but for the neighborhoods we d
   <iframe
         width="600"
         height="600"
-        src="file:///Users/laurengalarza/Documents/GitHub/BushwickRestaurantMap.html"
+        src="BushwickRestaurantMap.html"
         frameborder="0"
         marginheight="0"
         allowfullscreen>
