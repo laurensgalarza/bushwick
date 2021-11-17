@@ -23,5 +23,14 @@ Most of the data centered around Brooklyn itself, but for the neighborhoods we d
 ### Map of Open Restaurant Applications
 
 <dl>
-<iframe src="/Users/laurengalarza/Documents/GitHub/BushwickRestaurantMap.html" width="600" height="400" frameborder="0" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+  <iframe
+        width="600"
+        height="600"
+        src="BushwickRestaurantMap.html"
+        frameborder="0"
+        marginheight="0"
+        allowfullscreen>
+  </iframe>
 </dl>
+        
+        
