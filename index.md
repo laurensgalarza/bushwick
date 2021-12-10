@@ -18,6 +18,7 @@ The three most desirable features of Brooklyn that we decided on are: transit ac
 Most of the data centered around Brooklyn itself, but for the neighborhoods we discussed alcohol-serving establishments. \
 For alcohol-serving establishments, Bushiwick North has 64% of the restaurants serving alcohol and Bushwick South has 73% serving alcohol. Bushwick has a higher average number of restaurants serving alcohol in Brooklyn than some other neighborhoods, but that may be due to the higher population size.
 Most of the data centered around Brooklyn itself, but for the neighborhoods we discussed alcohol-serving establishments and open-air alcohol zone neighborhoods. For alcohol-serving establishments, Bushiwick North has 64% of the restaurants serving alcohol and Bushwick South has 73% serving alcohol. Bushwick has a higher average number of restaurants serving alcohol in Brooklyn than some other neighborhoods as seen below, but that may be due to the higher population size.
+
 <img width="616" alt="Screen Shot 2021-12-09 at 7 43 35 PM" src="https://user-images.githubusercontent.com/92804326/145498058-352a5a05-7b33-42dc-8fdb-18d2e9cf3e8d.png">
 <img width="433" alt="Screen Shot 2021-11-17 at 4 34 22 PM" src="https://user-images.githubusercontent.com/92804326/142286019-381be955-842b-40e8-a392-8adfbbf7ca8d.png">
 
