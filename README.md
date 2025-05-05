@@ -2,8 +2,6 @@
 
 This project is an individual webpage highlighting Bushwick, Brooklyn, created as part of the CSCI 127 Honors Project at Hunter College (Fall 2021). While the research and analysis were completed collaboratively in a group of four, this site and its content were independently designed and coded.
 
-**Live site:** [https://laurensgalarza.github.io/Bushwick-Neighborhood-Profile-and-Analysis](https://laurensgalarza.github.io/Bushwick-Neighborhood-Profile-and-Analysis)
-
 ---
 
 ## Project Overview
